@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6276e2c-dc3f-43e8-8255-d8088c16a0b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WNh9rYP2dnn0ddNNrraT8MrEA1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/social_media" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/social_media" />
+      <recent name="$PROJECT_DIR$/social_media/accounts" />
+      <recent name="$PROJECT_DIR$/social_media/social_media" />
+      <recent name="$PROJECT_DIR$/social_media/posts" />
+      <recent name="$PROJECT_DIR$/social_media/groups" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6276e2c-dc3f-43e8-8255-d8088c16a0b0" name="Default Changelist" comment="" />
+      <created>1578995811396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578995811396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="210" y="23" width="982" height="709" key="SettingsEditor" timestamp="1580461025989">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="210" y="23" width="982" height="709" key="SettingsEditor/0.23.1280.709@0.23.1280.709" timestamp="1580461025989" />
+    <state x="635" y="23" width="645" height="708" key="find.popup" timestamp="1580457789850">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state x="635" y="23" width="645" height="708" key="find.popup/0.23.1280.712@0.23.1280.712" timestamp="1580457789850" />
+    <state x="635" y="23" width="645" height="708" key="find.popup/0.23.1280.713@0.23.1280.713" timestamp="1578997535732" />
+    <state x="583" y="56" width="670" height="676" key="search.everywhere.popup" timestamp="1580822541529">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="583" y="56" width="670" height="676" key="search.everywhere.popup/0.23.1280.709@0.23.1280.709" timestamp="1580822541529" />
+  </component>
+</project>
